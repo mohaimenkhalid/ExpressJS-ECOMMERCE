@@ -20,8 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5319bd56-0d04-4cef-ac47-81f07382861c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ecommerce-backend/src/routes/auth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce-backend/src/routes/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-backend/src/routes/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-backend/src/index.server.js" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-backend/src/index.server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-backend/src/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-backend/src/models/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-backend/src/routes/user.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +63,9 @@
       <option name="presentableId" value="Default" />
       <updated>1646062680578</updated>
       <workItem from="1646062681682" duration="11668000" />
-      <workItem from="1646143080433" duration="2419000" />
+      <workItem from="1646143080433" duration="3392000" />
+      <workItem from="1646146646971" duration="101000" />
+      <workItem from="1646146749487" duration="4608000" />
     </task>
     <servers />
   </component>
@@ -75,5 +82,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1646146746700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1646146746700" />
   </component>
 </project>
