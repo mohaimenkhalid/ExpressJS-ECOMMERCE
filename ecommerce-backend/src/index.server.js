@@ -5,12 +5,14 @@ const bodyParser = require('body-parser')
 
 //routes
 const authRoutes = require('./routes/auth');
+const adminRoutes = require('./routes/admin/auth');
 
 const app = express();
 env.config();
 //middleware
 app.use(bodyParser.json())
 app.use('/api', authRoutes)
+app.use('/api', adminRoutes)
 
 //Database connection
 mongoose.connect(`mongodb+srv://${process.env.MONGO_DB_USER}:${process.env.MONGO_DB_PASSWORD}@cluster0.zdrps.mongodb.net/${process.env.MONGO_DB_DATABASE}?retryWrites=true&w=majority`)

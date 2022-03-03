@@ -20,13 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5319bd56-0d04-4cef-ac47-81f07382861c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ecommerce-backend/src/routes/auth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce-backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-backend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce-backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-backend/src/controller/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-backend/src/controller/auth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ecommerce-backend/src/index.server.js" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-backend/src/index.server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce-backend/src/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-backend/src/models/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce-backend/src/routes/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-backend/src/routes/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-backend/src/routes/auth.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +47,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ecommerce-backend/src/routes/admin" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\mern-ecommerce\ecommerce-backend\src\routes\admin" />
+      <recent name="E:\mern-ecommerce\ecommerce-backend\src\controller\admin" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,7 +68,8 @@
       <workItem from="1646062681682" duration="11668000" />
       <workItem from="1646143080433" duration="3392000" />
       <workItem from="1646146646971" duration="101000" />
-      <workItem from="1646146749487" duration="4608000" />
+      <workItem from="1646146749487" duration="5398000" />
+      <workItem from="1646325997289" duration="6994000" />
     </task>
     <servers />
   </component>
